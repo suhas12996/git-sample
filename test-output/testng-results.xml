@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="97" started-at="2022-07-23T18:31:06 IST" finished-at="2022-07-23T18:31:06 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="97" started-at="2022-07-23T18:31:06 IST" finished-at="2022-07-23T18:31:06 IST">
+      <class name="TestNG.TestNGClass">
+        <test-method status="PASS" signature="Setup_browser()[pri:0, instance:TestNG.TestNGClass@61f8bee4]" name="Setup_browser" is-config="true" duration-ms="10" started-at="2022-07-23T18:31:06 IST" finished-at="2022-07-23T18:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup_browser -->
+        <test-method status="PASS" signature="Launch_browser()[pri:0, instance:TestNG.TestNGClass@61f8bee4]" name="Launch_browser" is-config="true" duration-ms="0" started-at="2022-07-23T18:31:06 IST" finished-at="2022-07-23T18:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_browser -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:TestNG.TestNGClass@61f8bee4]" name="Login" is-config="true" duration-ms="0" started-at="2022-07-23T18:31:06 IST" finished-at="2022-07-23T18:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Valid_Credentialsr()[pri:0, instance:TestNG.TestNGClass@61f8bee4]" name="Valid_Credentialsr" is-config="true" duration-ms="0" started-at="2022-07-23T18:31:06 IST" finished-at="2022-07-23T18:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Valid_Credentialsr -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:TestNG.TestNGClass@61f8bee4]" name="Test1" duration-ms="20" started-at="2022-07-23T18:31:06 IST" finished-at="2022-07-23T18:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:TestNG.TestNGClass@61f8bee4]" name="Logout" is-config="true" duration-ms="0" started-at="2022-07-23T18:31:06 IST" finished-at="2022-07-23T18:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Valid_Credentialsr()[pri:0, instance:TestNG.TestNGClass@61f8bee4]" name="Valid_Credentialsr" is-config="true" duration-ms="0" started-at="2022-07-23T18:31:06 IST" finished-at="2022-07-23T18:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Valid_Credentialsr -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:TestNG.TestNGClass@61f8bee4]" name="Test2" duration-ms="0" started-at="2022-07-23T18:31:06 IST" finished-at="2022-07-23T18:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:TestNG.TestNGClass@61f8bee4]" name="Test3" duration-ms="0" started-at="2022-07-23T18:31:06 IST" finished-at="2022-07-23T18:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:TestNG.TestNGClass@61f8bee4]" name="Logout" is-config="true" duration-ms="0" started-at="2022-07-23T18:31:06 IST" finished-at="2022-07-23T18:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Close_browser()[pri:0, instance:TestNG.TestNGClass@61f8bee4]" name="Close_browser" is-config="true" duration-ms="0" started-at="2022-07-23T18:31:06 IST" finished-at="2022-07-23T18:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_browser -->
+        <test-method status="PASS" signature="Valid_Credentialsr()[pri:0, instance:TestNG.TestNGClass@61f8bee4]" name="Valid_Credentialsr" is-config="true" duration-ms="0" started-at="2022-07-23T18:31:06 IST" finished-at="2022-07-23T18:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Valid_Credentialsr -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:TestNG.TestNGClass@61f8bee4]" name="Logout" is-config="true" duration-ms="0" started-at="2022-07-23T18:31:06 IST" finished-at="2022-07-23T18:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Clear_Cookies()[pri:0, instance:TestNG.TestNGClass@61f8bee4]" name="Clear_Cookies" is-config="true" duration-ms="0" started-at="2022-07-23T18:31:06 IST" finished-at="2022-07-23T18:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clear_Cookies -->
+        <test-method status="PASS" signature="Report()[pri:0, instance:TestNG.TestNGClass@61f8bee4]" name="Report" is-config="true" duration-ms="0" started-at="2022-07-23T18:31:06 IST" finished-at="2022-07-23T18:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Report -->
+      </class> <!-- TestNG.TestNGClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
